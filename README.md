@@ -13,3 +13,5 @@ App Store のサポート／マーケティング用サイトです。
 | `/snowvs/` | SnowVS |
 | `/dopagaki/` | Dopagaki |
 | `/mosquito-vs-human/` | 蚊vs人間 / Bite or Slap: Mosquito Duel |
+| `/apps/com-groocon-videoaudio/` | 動画の音声を保存 / Video to MP3 - Save Audio |
+| `/apps/com-groocon-slowvideo/` | 動画をスローにする / Slow Down Video |
