@@ -17,3 +17,4 @@ App Store のサポート／マーケティング用サイトです。
 | `/apps/com-groocon-slowvideo/` | 動画をスローにする / Slow Down Video |
 
 | `/apps/com-groocon-nejihazushi/` | ねじはずし / Little Unscrew |
+| `/apps/com-groocon-imageqr/` | 画像のqr |
