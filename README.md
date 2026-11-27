@@ -18,3 +18,4 @@ App Store のサポート／マーケティング用サイトです。
 
 | `/apps/com-groocon-nejihazushi/` | ねじはずし / Little Unscrew |
 | `/apps/com-groocon-imageqr/` | 画像のqr |
+| `/apps/com-groocon-penaltygamepicker/` | 罰ゲーム決め |
